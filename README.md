@@ -20,6 +20,4 @@ The model is trained using the cross-entropy loss function and backpropagation t
 
 ### 1. Clone the repository
 To clone this repository to your local machine, use the following command:
-
-```bash
-git clone https://github.com/shahd1215/RNN.ipynb
+`RNN.ipynb`
